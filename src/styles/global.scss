@@ -1,0 +1,25 @@
+@import '@fontsource/ibm-plex-mono/400.css';
+@import '@fontsource/ibm-plex-mono/700.css';
+@import '@fontsource/ibm-plex-sans/400.css';
+@import '@fontsource/ibm-plex-sans/700.css';
+@import '@fontsource/ibm-plex-serif/400.css';
+@import '@fontsource/ibm-plex-serif/700.css';
+@import '@fontsource/mynerve';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .con-con {
+    @apply px-10 w-full max-w-[1600px] mx-auto;
+  }
+}
+
+body {
+  @apply font-mono tracking-tighter bg-slate-800 text-white;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  @apply font-serif;
+}
