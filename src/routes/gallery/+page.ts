@@ -25,26 +25,26 @@ const images = [
 	{
 		fileName: "red-squirrel-with-cone",
 		title: "Red Squirrel with Cone",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "7/9/23",
+		shotDetail: ""
 	},
 	{
 		fileName: "frog-on-log",
 		title: "Frog on a Log",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "7/6/23",
+		shotDetail: ""
 	},
 	{
 		fileName: "flying-jay",
 		title: "Flying Jay",
 		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		shotDetail: ""
 	},
 	{
 		fileName: "over-the-mountain",
 		title: "Over the Mountain",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "red-squirrel-in-tree",
@@ -55,111 +55,111 @@ const images = [
 	{
 		fileName: "u-lookin-at-me",
 		title: "U lookin' @ me?",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "two-friends",
 		title: "Two Friends",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "on-a-flower",
 		title: "On a Flower",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "mono-goose",
 		title: "Mono Goose",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "cairn",
 		title: "Cairn",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 
 	{
 		fileName: "red-squirrel-on-log",
 		title: "Red Squirrel On Log",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "hanging-on-top",
 		title: "Hanging On",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "vibe-moose",
 		title: "Soft Moose",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "frog-in-grass",
 		title: "Frog in Grass",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "flicker-on-conifer",
 		title: "Flicker Atop the Conifer",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "bees-having-breakfast",
 		title: "Bumblin'",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "peeper",
 		title: "Peeper",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "smooth-flying",
 		title: "Aerodynamic",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "the-path",
 		title: "The Path",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "lily",
 		title: "Lily",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "dragonfly-having-breakfast",
 		title: "A Dragonfly's Breakfast",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "heron",
 		title: "Heron",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	},
 	{
 		fileName: "speck",
 		title: "A Speck in the Sky",
-		date: "7/7/23",
-		shotDetail: "Nikon D3500 1/2500 F6.3 ISO3200"
+		date: "",
+		shotDetail: ""
 	}
 ]
 
