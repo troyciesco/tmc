@@ -42,6 +42,6 @@
 		"@fontsource/ibm-plex-serif": "^5.0.4",
 		"@fontsource/mynerve": "^5.0.5",
 		"@unpic/svelte": "^0.0.28",
-		"svelte-cloudinary": "^1.0.1"
+		"svelte-cloudinary": "^1.0.3"
 	}
 }

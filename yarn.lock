@@ -20,18 +20,18 @@
     "@jridgewell/gen-mapping" "^0.3.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@cloudinary-util/url-loader@3.8.1":
-  version "3.8.1"
-  resolved "https://registry.yarnpkg.com/@cloudinary-util/url-loader/-/url-loader-3.8.1.tgz#c819e6c305293333ba4bb5b72b640d1f386d821b"
-  integrity sha512-cBAPiAulWIG5M6HkFDvHhWVo0BJfWnZrr3jz7mIvdVrhKJl3CgK6p9kzSWKC62Ib9SUHMzKBC9R2B8jn+ZCBKA==
+"@cloudinary-util/url-loader@3.9.0":
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/@cloudinary-util/url-loader/-/url-loader-3.9.0.tgz#c3b7c40f525aba8c58edbdf784addc3c51e3e642"
+  integrity sha512-DJiu+a3Mr2GEyjAo4Gy2KWX0YoXoP0CFp2jvw8+3gJj7wvmIb7mcjRk1yHSGIyJcolb0uR+tWGO6KVhStpreMg==
   dependencies:
-    "@cloudinary-util/util" "2.0.1"
+    "@cloudinary-util/util" "2.1.0"
     "@cloudinary/url-gen" "^1.10.1"
 
-"@cloudinary-util/util@2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@cloudinary-util/util/-/util-2.0.1.tgz#0797d2dd96f91971184b2f94da768c15922ea33d"
-  integrity sha512-d2imgUjYTLjv8ZhZPMAts/uPbMvIE71X4I/5hwdY/7vM4BuFQoJMSyq+h2pW1z1MyGG9BOWBm70vp082lSrbEQ==
+"@cloudinary-util/util@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@cloudinary-util/util/-/util-2.1.0.tgz#1f8152b228cdd92e8ccc1fa0200d4eeeb6ef73ae"
+  integrity sha512-PGjVxyhhOP8IaD6uawXzfDnI8ArPqpiLfIXc8TEjhv3CGhDFBAM3dCT3xeAgg+92sQsx/AN74j+qckdWPfoO6w==
 
 "@cloudinary/transformation-builder-sdk@^1.2.7":
   version "1.2.9"
@@ -1853,13 +1853,13 @@ svelte-check@^3.4.3:
     svelte-preprocess "^5.0.3"
     typescript "^5.0.3"
 
-svelte-cloudinary@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/svelte-cloudinary/-/svelte-cloudinary-1.0.1.tgz#b87d0b9fdcc3a8a1650f11412d830bf72e01eab0"
-  integrity sha512-KuscPL9jq4jmkIK3ISDlRq4LPHM42F4ePWxTK6P+hWkAYyBP1eH+kCeO2WdOaYI8xhYqVnOW+v5MElBAMJfc/Q==
+svelte-cloudinary@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/svelte-cloudinary/-/svelte-cloudinary-1.0.3.tgz#596bdc0ab0b933e74585e721d52d8f706be310cb"
+  integrity sha512-QVzldz0tr/XezxbMwyIrTvSTC5g6o/aO9/OBXtTVp9NEgXN4/5cixJi1HX9TSfZnFtQvGmTBeQbX0mu4mdPqrQ==
   dependencies:
-    "@cloudinary-util/url-loader" "3.8.1"
-    "@cloudinary-util/util" "2.0.1"
+    "@cloudinary-util/url-loader" "3.9.0"
+    "@cloudinary-util/util" "2.1.0"
     "@unpic/core" "0.0.24"
     "@unpic/svelte" "0.0.25"
 

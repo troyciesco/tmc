@@ -59,10 +59,12 @@
 </main>
 
 <GalleryModal bind:showModal>
-	<Image
+	<CldImage
 		layout="fullWidth"
-		objectFit="contain"
-		src={`https://res.cloudinary.com/tmciesco/image/upload/q_80/v1/tmc-portfolio/gallery/${mainImage}`}
+		height={1000}
+		class="max-h-[80vh]"
+		objectFit="cover"
+		src={`tmc-portfolio/gallery/${mainImage}`}
 		alt={mainImage}
 	/>
 </GalleryModal>
